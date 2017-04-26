@@ -1,6 +1,6 @@
 # npmtest-sha.js
 
-#### test coverage for  [sha.js (v2.4.8)](https://github.com/crypto-browserify/sha.js)  [![npm package](https://img.shields.io/npm/v/npmtest-sha.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sha.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sha.js.svg)](https://travis-ci.org/npmtest/node-npmtest-sha.js)
+#### basic test coverage for  [sha.js (v2.4.8)](https://github.com/crypto-browserify/sha.js)  [![npm package](https://img.shields.io/npm/v/npmtest-sha.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sha.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sha.js.svg)](https://travis-ci.org/npmtest/node-npmtest-sha.js)
 
 #### Streamable SHA hashes in pure javascript
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-sha.js/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-sha.js/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-sha.js/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-sha.js/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-sha.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-sha.js/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-sha.js/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-sha.js/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-sha.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-sha.js/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-sha.js/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-sha.js/build/coverage.html/index.html)
 
